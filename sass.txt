@@ -1,0 +1,1 @@
+sass --watch "D:\weblearn\module4\header menu completed\assets\scss\main.scss":"D:\weblearn\module4\header menu completed\assets\css\style.css"
